@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kristy.welsh.ASSISTTOUCH\Documents\SourceCode\AssistekSelfInstall Jelly Bean\app\libs\commons-lang-2.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="C:\Users\kristy.welsh.ASSISTTOUCH\Documents\SourceCode\AssistekSelfInstall Jelly Bean\app\build\intermediates\pre-dexed\debug\commons-lang-2.6-ef6644853fe130675dfc2b62f633f7e255aa7bbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\kristy.welsh.ASSISTTOUCH\Documents\SourceCode\AssistekSelfInstall Jelly Bean\app\libs\commons-net-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="C:\Users\kristy.welsh.ASSISTTOUCH\Documents\SourceCode\AssistekSelfInstall Jelly Bean\app\build\intermediates\pre-dexed\debug\commons-net-3.0.1-8198e87a06fe135c2f4f0e79a908ef9a41decace.jar" />
+    </item>
+
+</items>

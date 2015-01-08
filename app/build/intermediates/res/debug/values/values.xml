@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/kristy.welsh.ASSISTTOUCH/Documents/SourceCode/SelfInstall%20Jelly%20Bean/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">assisTek Self Installer</string>
+    <string name="hello">Hello World, SelfInstallActivity!</string>
+</resources>
